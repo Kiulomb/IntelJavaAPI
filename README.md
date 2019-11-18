@@ -21,8 +21,6 @@ import java.util.List;
 import lib.IngressPortal;
 import lib.IntelAPIClient;
 
-public class Test {
-
 	public static void main(String[] args) throws Exception {
 		// My suggestion:
 		// Intel returns timeouts very frequently.
@@ -40,4 +38,3 @@ public class Test {
 			System.out.println(ingressPortal);
 		}
 	}
-}
